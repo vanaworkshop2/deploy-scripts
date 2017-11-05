@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# edit permision
 CONFIG_ENV=$1
 SERVER_ENV=$2
 RELEASE_BRANCH=$3
